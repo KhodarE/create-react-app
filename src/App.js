@@ -53,7 +53,7 @@ render() {
   return (
     <div className="App">
       <div>
-        To-Do List
+        To-Do List using React.js
         <br/>
         <input
           type="text"
